@@ -1,0 +1,20 @@
+body {
+    background-color:  #808080;
+    margin-left: 40px;
+}
+
+h1 {
+    color:whitesmoke;
+}
+
+
+
+div {
+    width: 160px;
+    height: 160px;
+    background-color: #fea500;
+    color: white;
+    border: 1px solid black;
+    margin-top: 0.5em;
+  
+  }
